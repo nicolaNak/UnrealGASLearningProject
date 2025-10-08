@@ -1,0 +1,6 @@
+Breadcrumbs 'Parallel'
+ - LumenScreenProbeGather
+ - DiffuseIndirectAndAO
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 69905
