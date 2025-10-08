@@ -1,4 +1,3 @@
-// Copyright WetaWorkshop Ltd
 
 using UnrealBuildTool;
 using System.Collections.Generic;
