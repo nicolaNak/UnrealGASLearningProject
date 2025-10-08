@@ -1,4 +1,3 @@
-// Copyright WetaWorkshop Ltd
 
 
 #include "AbilitySystem/Abilities/AuraGameplayAbility.h"

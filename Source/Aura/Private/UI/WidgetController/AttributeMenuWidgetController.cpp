@@ -1,5 +1,3 @@
-// Copyright WetaWorkshop Ltd
-
 
 #include "UI/WidgetController/AttributeMenuWidgetController.h"
 

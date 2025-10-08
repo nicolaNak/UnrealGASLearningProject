@@ -1,4 +1,3 @@
-// Copyright WetaWorkshop Ltd
 
 
 #include "Actor/AuraProjectile.h"

@@ -1,5 +1,3 @@
-// Copyright WetaWorkshop Ltd
-
 
 #include "AbilitySystem/AuraAttributeSet.h"
 

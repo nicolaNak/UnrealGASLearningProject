@@ -1,5 +1,3 @@
-// Copyright WetaWorkshop Ltd
-
 
 #include "AuraGameplayTags.h"
 #include "GameplayTagsManager.h"

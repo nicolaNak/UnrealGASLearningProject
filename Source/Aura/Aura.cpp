@@ -1,4 +1,3 @@
-// Copyright WetaWorkshop Ltd
 
 #include "Aura.h"
 #include "Modules/ModuleManager.h"

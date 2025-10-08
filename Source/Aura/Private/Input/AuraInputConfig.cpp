@@ -1,4 +1,3 @@
-// Copyright WetaWorkshop Ltd
 
 
 #include "Input/AuraInputConfig.h"

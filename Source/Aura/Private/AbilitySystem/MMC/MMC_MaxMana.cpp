@@ -1,4 +1,3 @@
-// Copyright WetaWorkshop Ltd
 
 
 #include "AbilitySystem/MMC/MMC_MaxMana.h"
